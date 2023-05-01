@@ -1,6 +1,7 @@
 [
-  {
-    "chef_picture": "https://example.com/chef1.jpg",
+  { 
+    "id":"01",
+    "chef_picture": "https://thumbs.dreamstime.com/b/concentrated-female-chef-garnishing-food-kitchen-side-view-39222434.jpg",
     "chef_name": "John Smith",
     "years_of_experience": 10,
     "num_recipes": 50,
@@ -8,7 +9,8 @@
     "view_recipes_button": "https://example.com/chef1/recipes"
   },
   {
-    "chef_picture": "https://example.com/chef2.jpg",
+    "id":"02",
+    "chef_picture": "https://thumbs.dreamstime.com/b/concentrated-female-chef-garnishing-food-kitchen-side-view-39222434.jpg",
     "chef_name": "Jane Doe",
     "years_of_experience": 5,
     "num_recipes": 30,
@@ -16,7 +18,8 @@
     "view_recipes_button": "https://example.com/chef2/recipes"
   },
   {
-    "chef_picture": "https://example.com/chef3.jpg",
+    "id":"03",
+    "chef_picture": "https://thumbs.dreamstime.com/b/concentrated-female-chef-garnishing-food-kitchen-side-view-39222434.jpg",
     "chef_name": "David Lee",
     "years_of_experience": 8,
     "num_recipes": 40,
@@ -24,7 +27,8 @@
     "view_recipes_button": "https://example.com/chef3/recipes"
   },
   {
-    "chef_picture": "https://example.com/chef4.jpg",
+    "id":"04",
+    "chef_picture": "https://thumbs.dreamstime.com/b/concentrated-female-chef-garnishing-food-kitchen-side-view-39222434.jpg",
     "chef_name": "Sarah Kim",
     "years_of_experience": 3,
     "num_recipes": 20,
@@ -32,7 +36,8 @@
     "view_recipes_button": "https://example.com/chef4/recipes"
   },
   {
-    "chef_picture": "https://example.com/chef5.jpg",
+    "id":"05",
+    "chef_picture": "https://thumbs.dreamstime.com/b/concentrated-female-chef-garnishing-food-kitchen-side-view-39222434.jpg",
     "chef_name": "Michael Chen",
     "years_of_experience": 12,
     "num_recipes": 60,
@@ -40,7 +45,8 @@
     "view_recipes_button": "https://example.com/chef5/recipes"
   },
   {
-    "chef_picture": "https://example.com/chef6.jpg",
+    "id":"06",
+    "chef_picture": "https://thumbs.dreamstime.com/b/concentrated-female-chef-garnishing-food-kitchen-side-view-39222434.jpg",
     "chef_name": "Emily Wong",
     "years_of_experience": 6,
     "num_recipes": 35,
