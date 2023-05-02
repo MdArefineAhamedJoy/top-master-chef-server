@@ -1,0 +1,332 @@
+[
+    {
+        "chefs": [
+          
+          {
+            "id":"01",
+            "picture": "https://example.com/chef1.jpg",
+            "name": "John Smith",
+            "bio": "John is a classically trained chef with a passion for creating innovative dishes. He has worked in some of the top restaurants in the world, and brings a wealth of experience and knowledge to the table.",
+            "likes": [
+              "French cuisine",
+              "Molecular gastronomy",
+              "Farm-to-table cooking"
+            ],
+            "num_recipes": 50,
+            "years_experience": 15,
+            "recipes": [
+              {
+                "name": "Pan-Seared Duck Breast with Cherry Sauce",
+                "ingredients": [
+                  "duck breast",
+                  "cherries",
+                  "red wine",
+                  "shallots",
+                  "butter"
+                ],
+                "method": "1. Score the skin of the duck breast and season with salt and pepper. 2. Heat a skillet over medium-high heat and add the duck breast, skin-side down. 3. Cook for 6-8 minutes, until the skin is crispy. 4. Flip the duck breast and cook for another 2-3 minutes. 5. Remove the duck breast from the skillet and let rest for 5 minutes. 6. In the same skillet, add the cherries, red wine, and shallots. 7. Cook for 5-7 minutes, until the cherries have broken down and the sauce has thickened. 8. Add the butter and stir until melted. 9. Serve the duck breast with the cherry sauce.",
+                "rating": 4.5
+              },
+              {
+                "name": "Lobster Risotto",
+                "ingredients": [
+                  "lobster",
+                  "arborio rice",
+                  "white wine",
+                  "shallots",
+                  "parmesan cheese"
+                ],
+                "method": "1. In a large skillet, sauté the shallots in butter until softened. 2. Add the arborio rice and stir to coat. 3. Pour in the white wine and cook until the liquid is absorbed. 4. Add the lobster meat and stir to combine. 5. Gradually add the chicken stock, one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 6. Continue cooking and stirring until the rice is tender and creamy, about 20-25 minutes. 7. Remove from heat and stir in parmesan cheese. 8. Serve hot.",
+                "rating": 4.8
+              },
+              {
+                "name": "Beef Wellington",
+                "ingredients": [
+                  "beef tenderloin",
+                  "puff pastry",
+                  "mushrooms",
+                  "prosciutto",
+                  "egg"
+                ],
+                "method": "1. Preheat the oven to 400°F. 2. Sear the beef tenderloin in a skillet until browned on all sides. 3. Remove from the skillet and let cool. 4. In the same skillet, sauté the mushrooms until they release their moisture. 5. Add the prosciutto and cook for another 1-2 minutes. 6. Remove from heat and let cool. 7. Roll out the puff pastry and place the beef tenderloin in the center. 8. Spoon the mushroom mixture over the beef tenderloin. 9. Fold the puff pastry over the beef tenderloin and seal the edges. 10. Brush with beaten egg. 11. Bake for 25-"
+              }
+            ]
+          }
+        ]
+      },
+    {
+        "chefs": [
+          
+          {
+            "id":"02",
+            "picture": "https://example.com/chef1.jpg",
+            "name": "John Smith",
+            "bio": "John is a classically trained chef with a passion for creating innovative dishes. He has worked in some of the top restaurants in the world, and brings a wealth of experience and knowledge to the table.",
+            "likes": [
+              "French cuisine",
+              "Molecular gastronomy",
+              "Farm-to-table cooking"
+            ],
+            "num_recipes": 50,
+            "years_experience": 15,
+            "recipes": [
+              {
+                "name": "Pan-Seared Duck Breast with Cherry Sauce",
+                "ingredients": [
+                  "duck breast",
+                  "cherries",
+                  "red wine",
+                  "shallots",
+                  "butter"
+                ],
+                "method": "1. Score the skin of the duck breast and season with salt and pepper. 2. Heat a skillet over medium-high heat and add the duck breast, skin-side down. 3. Cook for 6-8 minutes, until the skin is crispy. 4. Flip the duck breast and cook for another 2-3 minutes. 5. Remove the duck breast from the skillet and let rest for 5 minutes. 6. In the same skillet, add the cherries, red wine, and shallots. 7. Cook for 5-7 minutes, until the cherries have broken down and the sauce has thickened. 8. Add the butter and stir until melted. 9. Serve the duck breast with the cherry sauce.",
+                "rating": 4.5
+              },
+              {
+                "name": "Lobster Risotto",
+                "ingredients": [
+                  "lobster",
+                  "arborio rice",
+                  "white wine",
+                  "shallots",
+                  "parmesan cheese"
+                ],
+                "method": "1. In a large skillet, sauté the shallots in butter until softened. 2. Add the arborio rice and stir to coat. 3. Pour in the white wine and cook until the liquid is absorbed. 4. Add the lobster meat and stir to combine. 5. Gradually add the chicken stock, one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 6. Continue cooking and stirring until the rice is tender and creamy, about 20-25 minutes. 7. Remove from heat and stir in parmesan cheese. 8. Serve hot.",
+                "rating": 4.8
+              },
+              {
+                "name": "Beef Wellington",
+                "ingredients": [
+                  "beef tenderloin",
+                  "puff pastry",
+                  "mushrooms",
+                  "prosciutto",
+                  "egg"
+                ],
+                "method": "1. Preheat the oven to 400°F. 2. Sear the beef tenderloin in a skillet until browned on all sides. 3. Remove from the skillet and let cool. 4. In the same skillet, sauté the mushrooms until they release their moisture. 5. Add the prosciutto and cook for another 1-2 minutes. 6. Remove from heat and let cool. 7. Roll out the puff pastry and place the beef tenderloin in the center. 8. Spoon the mushroom mixture over the beef tenderloin. 9. Fold the puff pastry over the beef tenderloin and seal the edges. 10. Brush with beaten egg. 11. Bake for 25-"
+              }
+            ]
+          }
+        ]
+      },
+    {
+        "chefs": [
+          
+          {
+            "id":"03",
+            "picture": "https://example.com/chef1.jpg",
+            "name": "John Smith",
+            "bio": "John is a classically trained chef with a passion for creating innovative dishes. He has worked in some of the top restaurants in the world, and brings a wealth of experience and knowledge to the table.",
+            "likes": [
+              "French cuisine",
+              "Molecular gastronomy",
+              "Farm-to-table cooking"
+            ],
+            "num_recipes": 50,
+            "years_experience": 15,
+            "recipes": [
+              {
+                "name": "Pan-Seared Duck Breast with Cherry Sauce",
+                "ingredients": [
+                  "duck breast",
+                  "cherries",
+                  "red wine",
+                  "shallots",
+                  "butter"
+                ],
+                "method": "1. Score the skin of the duck breast and season with salt and pepper. 2. Heat a skillet over medium-high heat and add the duck breast, skin-side down. 3. Cook for 6-8 minutes, until the skin is crispy. 4. Flip the duck breast and cook for another 2-3 minutes. 5. Remove the duck breast from the skillet and let rest for 5 minutes. 6. In the same skillet, add the cherries, red wine, and shallots. 7. Cook for 5-7 minutes, until the cherries have broken down and the sauce has thickened. 8. Add the butter and stir until melted. 9. Serve the duck breast with the cherry sauce.",
+                "rating": 4.5
+              },
+              {
+                "name": "Lobster Risotto",
+                "ingredients": [
+                  "lobster",
+                  "arborio rice",
+                  "white wine",
+                  "shallots",
+                  "parmesan cheese"
+                ],
+                "method": "1. In a large skillet, sauté the shallots in butter until softened. 2. Add the arborio rice and stir to coat. 3. Pour in the white wine and cook until the liquid is absorbed. 4. Add the lobster meat and stir to combine. 5. Gradually add the chicken stock, one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 6. Continue cooking and stirring until the rice is tender and creamy, about 20-25 minutes. 7. Remove from heat and stir in parmesan cheese. 8. Serve hot.",
+                "rating": 4.8
+              },
+              {
+                "name": "Beef Wellington",
+                "ingredients": [
+                  "beef tenderloin",
+                  "puff pastry",
+                  "mushrooms",
+                  "prosciutto",
+                  "egg"
+                ],
+                "method": "1. Preheat the oven to 400°F. 2. Sear the beef tenderloin in a skillet until browned on all sides. 3. Remove from the skillet and let cool. 4. In the same skillet, sauté the mushrooms until they release their moisture. 5. Add the prosciutto and cook for another 1-2 minutes. 6. Remove from heat and let cool. 7. Roll out the puff pastry and place the beef tenderloin in the center. 8. Spoon the mushroom mixture over the beef tenderloin. 9. Fold the puff pastry over the beef tenderloin and seal the edges. 10. Brush with beaten egg. 11. Bake for 25-"
+              }
+            ]
+          }
+        ]
+      },
+    {
+        "chefs": [
+          
+          {
+            "id":"04",
+            "picture": "https://example.com/chef1.jpg",
+            "name": "John Smith",
+            "bio": "John is a classically trained chef with a passion for creating innovative dishes. He has worked in some of the top restaurants in the world, and brings a wealth of experience and knowledge to the table.",
+            "likes": [
+              "French cuisine",
+              "Molecular gastronomy",
+              "Farm-to-table cooking"
+            ],
+            "num_recipes": 50,
+            "years_experience": 15,
+            "recipes": [
+              {
+                "name": "Pan-Seared Duck Breast with Cherry Sauce",
+                "ingredients": [
+                  "duck breast",
+                  "cherries",
+                  "red wine",
+                  "shallots",
+                  "butter"
+                ],
+                "method": "1. Score the skin of the duck breast and season with salt and pepper. 2. Heat a skillet over medium-high heat and add the duck breast, skin-side down. 3. Cook for 6-8 minutes, until the skin is crispy. 4. Flip the duck breast and cook for another 2-3 minutes. 5. Remove the duck breast from the skillet and let rest for 5 minutes. 6. In the same skillet, add the cherries, red wine, and shallots. 7. Cook for 5-7 minutes, until the cherries have broken down and the sauce has thickened. 8. Add the butter and stir until melted. 9. Serve the duck breast with the cherry sauce.",
+                "rating": 4.5
+              },
+              {
+                "name": "Lobster Risotto",
+                "ingredients": [
+                  "lobster",
+                  "arborio rice",
+                  "white wine",
+                  "shallots",
+                  "parmesan cheese"
+                ],
+                "method": "1. In a large skillet, sauté the shallots in butter until softened. 2. Add the arborio rice and stir to coat. 3. Pour in the white wine and cook until the liquid is absorbed. 4. Add the lobster meat and stir to combine. 5. Gradually add the chicken stock, one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 6. Continue cooking and stirring until the rice is tender and creamy, about 20-25 minutes. 7. Remove from heat and stir in parmesan cheese. 8. Serve hot.",
+                "rating": 4.8
+              },
+              {
+                "name": "Beef Wellington",
+                "ingredients": [
+                  "beef tenderloin",
+                  "puff pastry",
+                  "mushrooms",
+                  "prosciutto",
+                  "egg"
+                ],
+                "method": "1. Preheat the oven to 400°F. 2. Sear the beef tenderloin in a skillet until browned on all sides. 3. Remove from the skillet and let cool. 4. In the same skillet, sauté the mushrooms until they release their moisture. 5. Add the prosciutto and cook for another 1-2 minutes. 6. Remove from heat and let cool. 7. Roll out the puff pastry and place the beef tenderloin in the center. 8. Spoon the mushroom mixture over the beef tenderloin. 9. Fold the puff pastry over the beef tenderloin and seal the edges. 10. Brush with beaten egg. 11. Bake for 25-"
+              }
+            ]
+          }
+        ]
+      },
+    {
+        "chefs": [
+          
+          {
+            "id":"05",
+            "picture": "https://example.com/chef1.jpg",
+            "name": "John Smith",
+            "bio": "John is a classically trained chef with a passion for creating innovative dishes. He has worked in some of the top restaurants in the world, and brings a wealth of experience and knowledge to the table.",
+            "likes": [
+              "French cuisine",
+              "Molecular gastronomy",
+              "Farm-to-table cooking"
+            ],
+            "num_recipes": 50,
+            "years_experience": 15,
+            "recipes": [
+              {
+                "name": "Pan-Seared Duck Breast with Cherry Sauce",
+                "ingredients": [
+                  "duck breast",
+                  "cherries",
+                  "red wine",
+                  "shallots",
+                  "butter"
+                ],
+                "method": "1. Score the skin of the duck breast and season with salt and pepper. 2. Heat a skillet over medium-high heat and add the duck breast, skin-side down. 3. Cook for 6-8 minutes, until the skin is crispy. 4. Flip the duck breast and cook for another 2-3 minutes. 5. Remove the duck breast from the skillet and let rest for 5 minutes. 6. In the same skillet, add the cherries, red wine, and shallots. 7. Cook for 5-7 minutes, until the cherries have broken down and the sauce has thickened. 8. Add the butter and stir until melted. 9. Serve the duck breast with the cherry sauce.",
+                "rating": 4.5
+              },
+              {
+                "name": "Lobster Risotto",
+                "ingredients": [
+                  "lobster",
+                  "arborio rice",
+                  "white wine",
+                  "shallots",
+                  "parmesan cheese"
+                ],
+                "method": "1. In a large skillet, sauté the shallots in butter until softened. 2. Add the arborio rice and stir to coat. 3. Pour in the white wine and cook until the liquid is absorbed. 4. Add the lobster meat and stir to combine. 5. Gradually add the chicken stock, one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 6. Continue cooking and stirring until the rice is tender and creamy, about 20-25 minutes. 7. Remove from heat and stir in parmesan cheese. 8. Serve hot.",
+                "rating": 4.8
+              },
+              {
+                "name": "Beef Wellington",
+                "ingredients": [
+                  "beef tenderloin",
+                  "puff pastry",
+                  "mushrooms",
+                  "prosciutto",
+                  "egg"
+                ],
+                "method": "1. Preheat the oven to 400°F. 2. Sear the beef tenderloin in a skillet until browned on all sides. 3. Remove from the skillet and let cool. 4. In the same skillet, sauté the mushrooms until they release their moisture. 5. Add the prosciutto and cook for another 1-2 minutes. 6. Remove from heat and let cool. 7. Roll out the puff pastry and place the beef tenderloin in the center. 8. Spoon the mushroom mixture over the beef tenderloin. 9. Fold the puff pastry over the beef tenderloin and seal the edges. 10. Brush with beaten egg. 11. Bake for 25-"
+              }
+            ]
+          }
+        ]
+      },
+    {
+        "chefs": [
+          
+          {
+            "id":"06",
+            "picture": "https://example.com/chef1.jpg",
+            "name": "John Smith",
+            "bio": "John is a classically trained chef with a passion for creating innovative dishes. He has worked in some of the top restaurants in the world, and brings a wealth of experience and knowledge to the table.",
+            "likes": [
+              "French cuisine",
+              "Molecular gastronomy",
+              "Farm-to-table cooking"
+            ],
+            "num_recipes": 50,
+            "years_experience": 15,
+            "recipes": [
+              {
+                "name": "Pan-Seared Duck Breast with Cherry Sauce",
+                "ingredients": [
+                  "duck breast",
+                  "cherries",
+                  "red wine",
+                  "shallots",
+                  "butter"
+                ],
+                "method": "1. Score the skin of the duck breast and season with salt and pepper. 2. Heat a skillet over medium-high heat and add the duck breast, skin-side down. 3. Cook for 6-8 minutes, until the skin is crispy. 4. Flip the duck breast and cook for another 2-3 minutes. 5. Remove the duck breast from the skillet and let rest for 5 minutes. 6. In the same skillet, add the cherries, red wine, and shallots. 7. Cook for 5-7 minutes, until the cherries have broken down and the sauce has thickened. 8. Add the butter and stir until melted. 9. Serve the duck breast with the cherry sauce.",
+                "rating": 4.5
+              },
+              {
+                "name": "Lobster Risotto",
+                "ingredients": [
+                  "lobster",
+                  "arborio rice",
+                  "white wine",
+                  "shallots",
+                  "parmesan cheese"
+                ],
+                "method": "1. In a large skillet, sauté the shallots in butter until softened. 2. Add the arborio rice and stir to coat. 3. Pour in the white wine and cook until the liquid is absorbed. 4. Add the lobster meat and stir to combine. 5. Gradually add the chicken stock, one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 6. Continue cooking and stirring until the rice is tender and creamy, about 20-25 minutes. 7. Remove from heat and stir in parmesan cheese. 8. Serve hot.",
+                "rating": 4.8
+              },
+              {
+                "name": "Beef Wellington",
+                "ingredients": [
+                  "beef tenderloin",
+                  "puff pastry",
+                  "mushrooms",
+                  "prosciutto",
+                  "egg"
+                ],
+                "method": "1. Preheat the oven to 400°F. 2. Sear the beef tenderloin in a skillet until browned on all sides. 3. Remove from the skillet and let cool. 4. In the same skillet, sauté the mushrooms until they release their moisture. 5. Add the prosciutto and cook for another 1-2 minutes. 6. Remove from heat and let cool. 7. Roll out the puff pastry and place the beef tenderloin in the center. 8. Spoon the mushroom mixture over the beef tenderloin. 9. Fold the puff pastry over the beef tenderloin and seal the edges. 10. Brush with beaten egg. 11. Bake for 25-"
+              }
+            ]
+          }
+        ]
+      }
+]
