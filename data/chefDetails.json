@@ -1,332 +1,326 @@
 [
-    {
-        "chefs": [
-          
-          {
-            "id":"01",
-            "picture": "https://example.com/chef1.jpg",
-            "name": "John Smith",
-            "bio": "John is a classically trained chef with a passion for creating innovative dishes. He has worked in some of the top restaurants in the world, and brings a wealth of experience and knowledge to the table.",
-            "likes": [
-              "French cuisine",
-              "Molecular gastronomy",
-              "Farm-to-table cooking"
-            ],
-            "num_recipes": 50,
-            "years_experience": 15,
-            "recipes": [
-              {
-                "name": "Pan-Seared Duck Breast with Cherry Sauce",
-                "ingredients": [
-                  "duck breast",
-                  "cherries",
-                  "red wine",
-                  "shallots",
-                  "butter"
-                ],
-                "method": "1. Score the skin of the duck breast and season with salt and pepper. 2. Heat a skillet over medium-high heat and add the duck breast, skin-side down. 3. Cook for 6-8 minutes, until the skin is crispy. 4. Flip the duck breast and cook for another 2-3 minutes. 5. Remove the duck breast from the skillet and let rest for 5 minutes. 6. In the same skillet, add the cherries, red wine, and shallots. 7. Cook for 5-7 minutes, until the cherries have broken down and the sauce has thickened. 8. Add the butter and stir until melted. 9. Serve the duck breast with the cherry sauce.",
-                "rating": 4.5
-              },
-              {
-                "name": "Lobster Risotto",
-                "ingredients": [
-                  "lobster",
-                  "arborio rice",
-                  "white wine",
-                  "shallots",
-                  "parmesan cheese"
-                ],
-                "method": "1. In a large skillet, sauté the shallots in butter until softened. 2. Add the arborio rice and stir to coat. 3. Pour in the white wine and cook until the liquid is absorbed. 4. Add the lobster meat and stir to combine. 5. Gradually add the chicken stock, one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 6. Continue cooking and stirring until the rice is tender and creamy, about 20-25 minutes. 7. Remove from heat and stir in parmesan cheese. 8. Serve hot.",
-                "rating": 4.8
-              },
-              {
-                "name": "Beef Wellington",
-                "ingredients": [
-                  "beef tenderloin",
-                  "puff pastry",
-                  "mushrooms",
-                  "prosciutto",
-                  "egg"
-                ],
-                "method": "1. Preheat the oven to 400°F. 2. Sear the beef tenderloin in a skillet until browned on all sides. 3. Remove from the skillet and let cool. 4. In the same skillet, sauté the mushrooms until they release their moisture. 5. Add the prosciutto and cook for another 1-2 minutes. 6. Remove from heat and let cool. 7. Roll out the puff pastry and place the beef tenderloin in the center. 8. Spoon the mushroom mixture over the beef tenderloin. 9. Fold the puff pastry over the beef tenderloin and seal the edges. 10. Brush with beaten egg. 11. Bake for 25-"
-              }
-            ]
-          }
-        ]
+  {
+    "chef_id": 1,
+    "id": "010",
+    "chefName": "Maria Rodriguez",
+    "chefPicture": "https://thumbs.dreamstime.com/b/concentrated-female-chef-garnishing-food-kitchen-side-view-39222434.jpg",
+    "bio": "Maria is a classically trained chef who has worked in Michelin-starred restaurants all over the world. Her specialty is French cuisine, but she also loves experimenting with fusion flavors.",
+    "likes": 1500,
+    "numRecipes": 10,
+    "yearsExperience": 15,
+    "recipes": [
+      {
+        "_id":"00000001",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Beef Bourguignon",
+        "ingredients": [
+          "2 lbs. beef chuck roast",
+          "2 cups red wine",
+          "1 onion",
+          "4 garlic cloves",
+          "1 lb. mushrooms"
+        ],
+        "cookingMethod": "Preheat oven to 325°F. Brown the beef, then sauté the onions and garlic. Deglaze the pan with red wine, then add the mushrooms and beef back to the pot. Bake for 2-3 hours, until tender.",
+        "rating": 4.5
       },
-    {
-        "chefs": [
-          
-          {
-            "id":"02",
-            "picture": "https://example.com/chef1.jpg",
-            "name": "John Smith",
-            "bio": "John is a classically trained chef with a passion for creating innovative dishes. He has worked in some of the top restaurants in the world, and brings a wealth of experience and knowledge to the table.",
-            "likes": [
-              "French cuisine",
-              "Molecular gastronomy",
-              "Farm-to-table cooking"
-            ],
-            "num_recipes": 50,
-            "years_experience": 15,
-            "recipes": [
-              {
-                "name": "Pan-Seared Duck Breast with Cherry Sauce",
-                "ingredients": [
-                  "duck breast",
-                  "cherries",
-                  "red wine",
-                  "shallots",
-                  "butter"
-                ],
-                "method": "1. Score the skin of the duck breast and season with salt and pepper. 2. Heat a skillet over medium-high heat and add the duck breast, skin-side down. 3. Cook for 6-8 minutes, until the skin is crispy. 4. Flip the duck breast and cook for another 2-3 minutes. 5. Remove the duck breast from the skillet and let rest for 5 minutes. 6. In the same skillet, add the cherries, red wine, and shallots. 7. Cook for 5-7 minutes, until the cherries have broken down and the sauce has thickened. 8. Add the butter and stir until melted. 9. Serve the duck breast with the cherry sauce.",
-                "rating": 4.5
-              },
-              {
-                "name": "Lobster Risotto",
-                "ingredients": [
-                  "lobster",
-                  "arborio rice",
-                  "white wine",
-                  "shallots",
-                  "parmesan cheese"
-                ],
-                "method": "1. In a large skillet, sauté the shallots in butter until softened. 2. Add the arborio rice and stir to coat. 3. Pour in the white wine and cook until the liquid is absorbed. 4. Add the lobster meat and stir to combine. 5. Gradually add the chicken stock, one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 6. Continue cooking and stirring until the rice is tender and creamy, about 20-25 minutes. 7. Remove from heat and stir in parmesan cheese. 8. Serve hot.",
-                "rating": 4.8
-              },
-              {
-                "name": "Beef Wellington",
-                "ingredients": [
-                  "beef tenderloin",
-                  "puff pastry",
-                  "mushrooms",
-                  "prosciutto",
-                  "egg"
-                ],
-                "method": "1. Preheat the oven to 400°F. 2. Sear the beef tenderloin in a skillet until browned on all sides. 3. Remove from the skillet and let cool. 4. In the same skillet, sauté the mushrooms until they release their moisture. 5. Add the prosciutto and cook for another 1-2 minutes. 6. Remove from heat and let cool. 7. Roll out the puff pastry and place the beef tenderloin in the center. 8. Spoon the mushroom mixture over the beef tenderloin. 9. Fold the puff pastry over the beef tenderloin and seal the edges. 10. Brush with beaten egg. 11. Bake for 25-"
-              }
-            ]
-          }
-        ]
+      {
+        "_id":"00000002",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Fusion Tacos",
+        "ingredients": [
+          "1 lb. ground beef",
+          "1 red pepper",
+          "1 jalapeno",
+          "1 tsp. cumin",
+          "1 tsp. soy sauce"
+        ],
+        "cookingMethod": "Brown the beef and sauté the peppers and jalapeno. Add the cumin and soy sauce and stir to combine. Serve on tortillas with your favorite toppings.",
+        "rating": 4.2
       },
-    {
-        "chefs": [
-          
-          {
-            "id":"03",
-            "picture": "https://example.com/chef1.jpg",
-            "name": "John Smith",
-            "bio": "John is a classically trained chef with a passion for creating innovative dishes. He has worked in some of the top restaurants in the world, and brings a wealth of experience and knowledge to the table.",
-            "likes": [
-              "French cuisine",
-              "Molecular gastronomy",
-              "Farm-to-table cooking"
-            ],
-            "num_recipes": 50,
-            "years_experience": 15,
-            "recipes": [
-              {
-                "name": "Pan-Seared Duck Breast with Cherry Sauce",
-                "ingredients": [
-                  "duck breast",
-                  "cherries",
-                  "red wine",
-                  "shallots",
-                  "butter"
-                ],
-                "method": "1. Score the skin of the duck breast and season with salt and pepper. 2. Heat a skillet over medium-high heat and add the duck breast, skin-side down. 3. Cook for 6-8 minutes, until the skin is crispy. 4. Flip the duck breast and cook for another 2-3 minutes. 5. Remove the duck breast from the skillet and let rest for 5 minutes. 6. In the same skillet, add the cherries, red wine, and shallots. 7. Cook for 5-7 minutes, until the cherries have broken down and the sauce has thickened. 8. Add the butter and stir until melted. 9. Serve the duck breast with the cherry sauce.",
-                "rating": 4.5
-              },
-              {
-                "name": "Lobster Risotto",
-                "ingredients": [
-                  "lobster",
-                  "arborio rice",
-                  "white wine",
-                  "shallots",
-                  "parmesan cheese"
-                ],
-                "method": "1. In a large skillet, sauté the shallots in butter until softened. 2. Add the arborio rice and stir to coat. 3. Pour in the white wine and cook until the liquid is absorbed. 4. Add the lobster meat and stir to combine. 5. Gradually add the chicken stock, one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 6. Continue cooking and stirring until the rice is tender and creamy, about 20-25 minutes. 7. Remove from heat and stir in parmesan cheese. 8. Serve hot.",
-                "rating": 4.8
-              },
-              {
-                "name": "Beef Wellington",
-                "ingredients": [
-                  "beef tenderloin",
-                  "puff pastry",
-                  "mushrooms",
-                  "prosciutto",
-                  "egg"
-                ],
-                "method": "1. Preheat the oven to 400°F. 2. Sear the beef tenderloin in a skillet until browned on all sides. 3. Remove from the skillet and let cool. 4. In the same skillet, sauté the mushrooms until they release their moisture. 5. Add the prosciutto and cook for another 1-2 minutes. 6. Remove from heat and let cool. 7. Roll out the puff pastry and place the beef tenderloin in the center. 8. Spoon the mushroom mixture over the beef tenderloin. 9. Fold the puff pastry over the beef tenderloin and seal the edges. 10. Brush with beaten egg. 11. Bake for 25-"
-              }
-            ]
-          }
-        ]
-      },
-    {
-        "chefs": [
-          
-          {
-            "id":"04",
-            "picture": "https://example.com/chef1.jpg",
-            "name": "John Smith",
-            "bio": "John is a classically trained chef with a passion for creating innovative dishes. He has worked in some of the top restaurants in the world, and brings a wealth of experience and knowledge to the table.",
-            "likes": [
-              "French cuisine",
-              "Molecular gastronomy",
-              "Farm-to-table cooking"
-            ],
-            "num_recipes": 50,
-            "years_experience": 15,
-            "recipes": [
-              {
-                "name": "Pan-Seared Duck Breast with Cherry Sauce",
-                "ingredients": [
-                  "duck breast",
-                  "cherries",
-                  "red wine",
-                  "shallots",
-                  "butter"
-                ],
-                "method": "1. Score the skin of the duck breast and season with salt and pepper. 2. Heat a skillet over medium-high heat and add the duck breast, skin-side down. 3. Cook for 6-8 minutes, until the skin is crispy. 4. Flip the duck breast and cook for another 2-3 minutes. 5. Remove the duck breast from the skillet and let rest for 5 minutes. 6. In the same skillet, add the cherries, red wine, and shallots. 7. Cook for 5-7 minutes, until the cherries have broken down and the sauce has thickened. 8. Add the butter and stir until melted. 9. Serve the duck breast with the cherry sauce.",
-                "rating": 4.5
-              },
-              {
-                "name": "Lobster Risotto",
-                "ingredients": [
-                  "lobster",
-                  "arborio rice",
-                  "white wine",
-                  "shallots",
-                  "parmesan cheese"
-                ],
-                "method": "1. In a large skillet, sauté the shallots in butter until softened. 2. Add the arborio rice and stir to coat. 3. Pour in the white wine and cook until the liquid is absorbed. 4. Add the lobster meat and stir to combine. 5. Gradually add the chicken stock, one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 6. Continue cooking and stirring until the rice is tender and creamy, about 20-25 minutes. 7. Remove from heat and stir in parmesan cheese. 8. Serve hot.",
-                "rating": 4.8
-              },
-              {
-                "name": "Beef Wellington",
-                "ingredients": [
-                  "beef tenderloin",
-                  "puff pastry",
-                  "mushrooms",
-                  "prosciutto",
-                  "egg"
-                ],
-                "method": "1. Preheat the oven to 400°F. 2. Sear the beef tenderloin in a skillet until browned on all sides. 3. Remove from the skillet and let cool. 4. In the same skillet, sauté the mushrooms until they release their moisture. 5. Add the prosciutto and cook for another 1-2 minutes. 6. Remove from heat and let cool. 7. Roll out the puff pastry and place the beef tenderloin in the center. 8. Spoon the mushroom mixture over the beef tenderloin. 9. Fold the puff pastry over the beef tenderloin and seal the edges. 10. Brush with beaten egg. 11. Bake for 25-"
-              }
-            ]
-          }
-        ]
-      },
-    {
-        "chefs": [
-          
-          {
-            "id":"05",
-            "picture": "https://example.com/chef1.jpg",
-            "name": "John Smith",
-            "bio": "John is a classically trained chef with a passion for creating innovative dishes. He has worked in some of the top restaurants in the world, and brings a wealth of experience and knowledge to the table.",
-            "likes": [
-              "French cuisine",
-              "Molecular gastronomy",
-              "Farm-to-table cooking"
-            ],
-            "num_recipes": 50,
-            "years_experience": 15,
-            "recipes": [
-              {
-                "name": "Pan-Seared Duck Breast with Cherry Sauce",
-                "ingredients": [
-                  "duck breast",
-                  "cherries",
-                  "red wine",
-                  "shallots",
-                  "butter"
-                ],
-                "method": "1. Score the skin of the duck breast and season with salt and pepper. 2. Heat a skillet over medium-high heat and add the duck breast, skin-side down. 3. Cook for 6-8 minutes, until the skin is crispy. 4. Flip the duck breast and cook for another 2-3 minutes. 5. Remove the duck breast from the skillet and let rest for 5 minutes. 6. In the same skillet, add the cherries, red wine, and shallots. 7. Cook for 5-7 minutes, until the cherries have broken down and the sauce has thickened. 8. Add the butter and stir until melted. 9. Serve the duck breast with the cherry sauce.",
-                "rating": 4.5
-              },
-              {
-                "name": "Lobster Risotto",
-                "ingredients": [
-                  "lobster",
-                  "arborio rice",
-                  "white wine",
-                  "shallots",
-                  "parmesan cheese"
-                ],
-                "method": "1. In a large skillet, sauté the shallots in butter until softened. 2. Add the arborio rice and stir to coat. 3. Pour in the white wine and cook until the liquid is absorbed. 4. Add the lobster meat and stir to combine. 5. Gradually add the chicken stock, one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 6. Continue cooking and stirring until the rice is tender and creamy, about 20-25 minutes. 7. Remove from heat and stir in parmesan cheese. 8. Serve hot.",
-                "rating": 4.8
-              },
-              {
-                "name": "Beef Wellington",
-                "ingredients": [
-                  "beef tenderloin",
-                  "puff pastry",
-                  "mushrooms",
-                  "prosciutto",
-                  "egg"
-                ],
-                "method": "1. Preheat the oven to 400°F. 2. Sear the beef tenderloin in a skillet until browned on all sides. 3. Remove from the skillet and let cool. 4. In the same skillet, sauté the mushrooms until they release their moisture. 5. Add the prosciutto and cook for another 1-2 minutes. 6. Remove from heat and let cool. 7. Roll out the puff pastry and place the beef tenderloin in the center. 8. Spoon the mushroom mixture over the beef tenderloin. 9. Fold the puff pastry over the beef tenderloin and seal the edges. 10. Brush with beaten egg. 11. Bake for 25-"
-              }
-            ]
-          }
-        ]
-      },
-    {
-        "chefs": [
-          
-          {
-            "id":"06",
-            "picture": "https://example.com/chef1.jpg",
-            "name": "John Smith",
-            "bio": "John is a classically trained chef with a passion for creating innovative dishes. He has worked in some of the top restaurants in the world, and brings a wealth of experience and knowledge to the table.",
-            "likes": [
-              "French cuisine",
-              "Molecular gastronomy",
-              "Farm-to-table cooking"
-            ],
-            "num_recipes": 50,
-            "years_experience": 15,
-            "recipes": [
-              {
-                "name": "Pan-Seared Duck Breast with Cherry Sauce",
-                "ingredients": [
-                  "duck breast",
-                  "cherries",
-                  "red wine",
-                  "shallots",
-                  "butter"
-                ],
-                "method": "1. Score the skin of the duck breast and season with salt and pepper. 2. Heat a skillet over medium-high heat and add the duck breast, skin-side down. 3. Cook for 6-8 minutes, until the skin is crispy. 4. Flip the duck breast and cook for another 2-3 minutes. 5. Remove the duck breast from the skillet and let rest for 5 minutes. 6. In the same skillet, add the cherries, red wine, and shallots. 7. Cook for 5-7 minutes, until the cherries have broken down and the sauce has thickened. 8. Add the butter and stir until melted. 9. Serve the duck breast with the cherry sauce.",
-                "rating": 4.5
-              },
-              {
-                "name": "Lobster Risotto",
-                "ingredients": [
-                  "lobster",
-                  "arborio rice",
-                  "white wine",
-                  "shallots",
-                  "parmesan cheese"
-                ],
-                "method": "1. In a large skillet, sauté the shallots in butter until softened. 2. Add the arborio rice and stir to coat. 3. Pour in the white wine and cook until the liquid is absorbed. 4. Add the lobster meat and stir to combine. 5. Gradually add the chicken stock, one ladleful at a time, stirring constantly until the liquid is absorbed before adding more. 6. Continue cooking and stirring until the rice is tender and creamy, about 20-25 minutes. 7. Remove from heat and stir in parmesan cheese. 8. Serve hot.",
-                "rating": 4.8
-              },
-              {
-                "name": "Beef Wellington",
-                "ingredients": [
-                  "beef tenderloin",
-                  "puff pastry",
-                  "mushrooms",
-                  "prosciutto",
-                  "egg"
-                ],
-                "method": "1. Preheat the oven to 400°F. 2. Sear the beef tenderloin in a skillet until browned on all sides. 3. Remove from the skillet and let cool. 4. In the same skillet, sauté the mushrooms until they release their moisture. 5. Add the prosciutto and cook for another 1-2 minutes. 6. Remove from heat and let cool. 7. Roll out the puff pastry and place the beef tenderloin in the center. 8. Spoon the mushroom mixture over the beef tenderloin. 9. Fold the puff pastry over the beef tenderloin and seal the edges. 10. Brush with beaten egg. 11. Bake for 25-"
-              }
-            ]
-          }
-        ]
+      {
+        "_id":"00000003",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Crème Brûlée",
+        "ingredients": [
+          "4 egg yolks",
+          "1/3 cup sugar",
+          "1 1/2 cups heavy cream",
+          "1 tsp. vanilla extract",
+          "1/4 cup brown sugar"
+        ],
+        "cookingMethod": "Preheat oven to 325°F. Whisk together egg yolks and sugar. Heat cream and vanilla, then slowly pour into egg mixture while whisking. Strain mixture into ramekins and bake for 30-35 minutes. Chill in fridge for 2 hours. Sprinkle brown sugar on top and broil until caramelized.",
+        "rating": 4.7
       }
+    ]
+  },
+  {
+    "chef_id": 2,
+    "id": "0100",
+    "chefName": "Mario Rossi",
+    "chefPicture": "https://thumbs.dreamstime.com/b/concentrated-female-chef-garnishing-food-kitchen-side-view-39222434.jpg",
+    "bio": "Mario is an Italian chef who specializes in pasta dishes. He learned to cook from his grandmother and has been passionate about food ever since.",
+    "likes": 1500,
+    "numRecipes": 8,
+    "yearsExperience": 20,
+    "recipes": [
+      {
+        "_id":"0000001",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb. spaghetti",
+          "4 oz. pancetta",
+          "4 egg yolks",
+          "1 cup grated Parmesan cheese",
+          "1 clove garlic"
+        ],
+        "cookingMethod": "Cook spaghetti until al dente, then reserve some pasta water. Cook pancetta and garlic in a pan, then remove garlic. Mix egg yolks and Parmesan cheese in a bowl. Add hot pasta and pancetta to egg mixture, then mix well. If the sauce is too thick, add reserved pasta water. Serve with black pepper on top.",
+        "rating": 4.7
+      },
+      {
+        "_id":"0000002",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Lasagna",
+        "ingredients": [
+          "12 lasagna noodles",
+          "1 lb. ground beef",
+          "1 onion",
+          "1/2 cup grated Parmesan cheese",
+          "2 cups tomato sauce"
+        ],
+        "cookingMethod": "Cook lasagna noodles until al dente, then rinse in cold water. Cook ground beef and onion in a pan, then add tomato sauce. Layer noodles, beef mixture, and Parmesan cheese in a baking dish. Bake at 375°F for 30 minutes.",
+        "rating": 4.5
+      },
+      {
+        "_id":"0000003",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Fettuccine Alfredo",
+        "ingredients": [
+          "1 lb. fettuccine",
+          "1/2 cup butter",
+          "1 cup heavy cream",
+          "1 cup grated Parmesan cheese",
+          "1/4 tsp. nutmeg"
+        ],
+        "cookingMethod": "Cook fettuccine until al dente, then reserve some pasta water. Melt butter in a pan, then add heavy cream and nutmeg. Add cooked pasta and Parmesan cheese to the pan, then mix well. If the sauce is too thick, add reserved pasta water. Serve with black pepper on top.",
+        "rating": 4.3
+      },
+      {
+        "_id":"000004",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Pesto",
+        "ingredients": [
+          "2 cups basil leaves",
+          "1/2 cup grated Parmesan cheese",
+          "1/4 cup pine nuts",
+          "1/4 cup olive oil",
+          "2 cloves garlic"
+        ],
+        "cookingMethod": "Blend basil leaves, Parmesan cheese, pine nuts, and garlic in a food processor. Slowly add olive oil while blending. Serve with pasta or as a spread on bread.",
+        "rating": 4.4
+      }
+    ]
+  },
+
+  {
+    "chef_id": 3,
+    "id": "01000",
+    "chefName": "Yoko Nakamura",
+    "chefPicture": "https://thumbs.dreamstime.com/b/concentrated-female-chef-garnishing-food-kitchen-side-view-39222434.jpg",
+    "bio": "Yoko is a Japanese chef who specializes in sushi and other traditional Japanese dishes. She has trained in some of the most prestigious sushi restaurants in Tokyo.",
+    "likes": 900,
+    "numRecipes": 6,
+    "yearsExperience": 12,
+    "recipes": [
+      {
+        "_id":"000001",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Spicy Tuna Roll",
+        "ingredients": [
+          "1/2 lb. sushi-grade tuna",
+          "1 tbsp. Sriracha",
+          "1 tsp. sesame oil",
+          "1/2 tsp. soy sauce",
+          "1 sheet of nori"
+        ],
+        "cookingMethod": "Mix tuna with Sriracha, sesame oil, and soy sauce. Spread mixture onto nori, then roll tightly and cut into slices.",
+        "rating": 4.6
+      },
+      {
+        "_id":"000002",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Tempura Shrimp",
+        "ingredients": [
+          "1/2 lb. shrimp",
+          "1/2 cup flour",
+          "1/2 cup cornstarch",
+          "1/2 tsp. baking powder",
+          "1/2 cup ice water"
+        ],
+        "cookingMethod": "Mix flour, cornstarch, and baking powder. Add ice water and stir until just combined. Dip shrimp in batter and deep fry until golden brown.",
+        "rating": 4.4
+      },
+      {
+        "_id":"000003",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Miso Soup",
+        "ingredients": [
+          "4 cups dashi stock",
+          "3 tbsp. miso paste",
+          "1 block of tofu",
+          "1 green onion",
+          "1 sheet of nori"
+        ],
+        "cookingMethod": "Heat dashi stock, then whisk in miso paste. Add cubed tofu and sliced green onion. Serve with sliced nori on top.",
+        "rating": 4.2
+      }
+    ]
+  },
+
+  {
+    "chef_id": 4,
+    "id": "010000",
+    "chefName": "Jasmine Lee",
+    "chefPicture": "https://thumbs.dreamstime.com/b/concentrated-female-chef-garnishing-food-kitchen-side-view-39222434.jpg",
+    "bio": "Jasmine is a pastry chef who loves creating beautiful and delicious desserts. She has worked in some of the finest restaurants in the world and is known for her intricate designs and attention to detail.",
+    "likes": 2200,
+    "numRecipes": 6,
+    "yearsExperience": 15,
+    "recipes": [
+      {
+        "_id":"00001",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Chocolate Cake",
+        "ingredients": [
+          "2 cups flour",
+          "2 cups sugar",
+          "3/4 cup unsweetened cocoa powder",
+          "2 tsp. baking powder",
+          "1/2 tsp. baking soda"
+        ],
+        "cookingMethod": "Preheat oven to 350°F. Mix dry ingredients in a bowl. Add eggs, milk, oil, and vanilla extract, then mix well. Add boiling water and mix well. Pour batter into greased pans. Bake for 30-35 minutes. Let cool before frosting.",
+        "rating": 4.8
+      },
+      {
+        "_id":"00002",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Macarons",
+        "ingredients": [
+          "1 cup almond flour",
+          "1 3/4 cups powdered sugar",
+          "3 egg whites",
+          "1/4 tsp. cream of tartar",
+          "1/4 cup granulated sugar"
+        ],
+        "cookingMethod": "Mix almond flour and powdered sugar in a food processor. Beat egg whites and cream of tartar until stiff peaks form. Slowly add granulated sugar while beating. Fold in almond mixture. Pipe batter onto parchment paper. Let dry for 30 minutes. Bake at 300°F for 15-20 minutes.",
+        "rating": 4.6
+      },
+      {
+        "_id":"00003",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Crème Brûlée",
+        "ingredients": [
+          "2 cups heavy cream",
+          "1/2 cup sugar",
+          "6 egg yolks",
+          "1 tsp. vanilla extract",
+          "6 tbsp. brown sugar"
+        ],
+        "cookingMethod": "Preheat oven to 300°F. Heat cream and sugar in a pan until sugar dissolves. Beat egg yolks and vanilla extract in a bowl. Slowly add cream mixture to egg mixture while stirring. Strain mixture and pour into ramekins. Bake for 45-50 minutes. Let cool and refrigerate. Before serving, sprinkle brown sugar on top and use a torch to caramelize.",
+        "rating": 4.7
+      }
+    ]
+  },
+
+  {
+    "chef_id": 5,
+    "id": "0100000",
+    "chefName": "Marta Sanchez",
+    "chefPicture": "https://thumbs.dreamstime.com/b/concentrated-female-chef-garnishing-food-kitchen-side-view-39222434.jpg",
+    "bio": "Marta is a Spanish chef who specializes in tapas and other traditional Spanish dishes. She loves to use fresh, local ingredients in her cooking.",
+    "likes": 1200,
+    "numRecipes": 5,
+    "yearsExperience": 10,
+    "recipes": [
+      {
+        "_id":"0001",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Tortilla Española",
+        "ingredients": [
+          "3 potatoes",
+          "1 onion",
+          "4 eggs",
+          "1/4 cup olive oil",
+          "1 tsp. salt"
+        ],
+        "cookingMethod": "Thinly slice potatoes and onions, then sauté until tender. Beat eggs with salt, then mix in potatoes and onions. Cook in olive oil until set.",
+        "rating": 4.6
+      },
+      {
+        "_id":"0002",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Gazpacho",
+        "ingredients": [
+          "4 ripe tomatoes",
+          "1 cucumber",
+          "1 red bell pepper",
+          "1/2 onion",
+          "1/4 cup olive oil"
+        ],
+        "cookingMethod": "Blend vegetables in a food processor, then stir in olive oil. Chill in the refrigerator before serving.",
+        "rating": 4.4
+      },
+      {
+        "_id":"0003",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Patatas Bravas",
+        "ingredients": [
+          "3 potatoes",
+          "1/2 cup tomato sauce",
+          "1/4 cup mayonnaise",
+          "1 tsp. smoked paprika",
+          "1/4 tsp. cayenne pepper"
+        ],
+        "cookingMethod": "Cut potatoes into cubes and fry until golden brown. Mix tomato sauce, mayonnaise, smoked paprika, and cayenne pepper. Serve potatoes with sauce on top.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "chef_id": 6,
+    "id": "01000000",
+    "chefName": "Alex Nguyen",
+    "chefPicture": "https://thumbs.dreamstime.com/b/concentrated-female-chef-garnishing-food-kitchen-side-view-39222434.jpg",
+    "bio": "Alex is a Vietnamese-American chef who specializes in fusion cuisine. He grew up learning traditional Vietnamese cooking from his grandmother and later trained at some of the top culinary schools in the United States. He is known for his innovative combinations of flavors and textures.",
+    "likes": 1800,
+    "numRecipes": 8,
+    "yearsExperience": 12,
+    "recipes": [
+      {
+        "_id":"001",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Banh Mi Sandwich",
+        "ingredients": ["1 French baguette", "4 oz. grilled pork", "2 tbsp. mayonnaise", "1 tsp. sriracha sauce", "1/4 cup pickled carrots and daikon", "1/4 cup sliced cucumbers", "1/4 cup cilantro leaves", "1/4 cup sliced jalapeno peppers"],
+        "cookingMethod": "Slice the baguette in half and toast it. Spread mayonnaise and sriracha sauce on the inside. Layer pork, pickled vegetables, cucumbers, cilantro, and jalapenos on top. Serve immediately.",
+        "rating": 4.9
+      },
+      {
+        "_id":"002",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Pho",
+        "ingredients": ["4 quarts beef broth", "1 lb. beef sirloin, thinly sliced", "1 lb. rice noodles", "1 onion, sliced", "1/4 cup fish sauce", "1/4 cup hoisin sauce", "1/4 cup chopped cilantro", "1/4 cup sliced green onions"],
+        "cookingMethod": "Bring broth to a boil in a pot. Add beef and onion and cook for 3-5 minutes. Cook noodles according to package directions. Divide noodles among bowls. Pour broth over noodles. Top with beef, cilantro, and green onions. Serve with hoisin and fish sauce on the side.",
+        "rating": 4.7
+      },
+      {
+        "_id":"003",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_8XE9JOEE4s_slvJ2D-uRlzRbjYF7SiCdQ&usqp=CAU",
+        "name": "Taco Rice Bowl",
+        "ingredients": ["1 lb. ground beef", "1 tbsp. taco seasoning", "1 cup cooked white rice", "1/2 cup canned black beans, drained", "1/2 cup corn kernels", "1/2 cup diced tomatoes", "1/4 cup sliced jalapeno peppers", "1/4 cup shredded cheddar cheese"],
+        "cookingMethod": "Cook ground beef in a skillet over medium heat until browned. Add taco seasoning and mix well. In a bowl, layer rice, beef, beans, corn, tomatoes, jalapenos, and cheese. Serve hot.",
+        "rating": 4.5
+      }
+    ]
+  }
+  
 ]

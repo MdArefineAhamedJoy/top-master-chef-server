@@ -4,7 +4,7 @@ const cors = require('cors');
 
 app.use(cors())
 const chefData = require('./data/chef.json')
-
+const chefDetails = require('./data/chefDetails.json')
 const port = 5000
 
 app.get("/", (req , res)=>{
@@ -13,10 +13,15 @@ app.get("/", (req , res)=>{
 app.get('/chefData', (req , res)=>{
     res.send(chefData)
 })
-app.get('/chefData/:id', (req , res)=>{
+app.get('/chefDetails',(req , res )=>{
+    res.send(chefDetails)
+})
+app.get('/chefDetails/:id', (req , res)=>{
     const id = req.params.id;
     console.log(id)
-    const chef = chefData.find(n => parseInt(n.id) === parseInt(id));
+    console.log(id)
+    const chef = chefDetails.find(n => parseInt(n.id) === parseInt( id));
+    console.log(chef)
     res.send(chef)
 })
 
