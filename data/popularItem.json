@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza",
+    "origin": "Italy",
+    "description": "A dish made of dough, tomato sauce, and various toppings such as cheese, vegetables, and meats. It is usually baked in an oven.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFb-QOETAw_2smnhPtCqsh8A1KTeBnpYEBTQ&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "name": "Burgers",
+    "origin": "United States",
+    "description": "A sandwich consisting of a cooked patty of ground meat, usually beef, placed between two buns. It is often served with various toppings such as cheese, lettuce, tomato, and condiments.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Nx0rqEFVsV5Xhbl8_DEXzdJAdsUBYEwXow&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "name": "Sushi",
+    "origin": "Japan",
+    "description": "A dish consisting of vinegared rice combined with various ingredients such as raw fish, seafood, vegetables, and egg. It is usually served with soy sauce, wasabi, and pickled ginger.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrxayZfCVopUz43JssMVIItSveEBV4dql4Sg&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "name": "Curry",
+    "origin": "India",
+    "description": "A dish made with a combination of spices, herbs, and vegetables or meat. It is usually served with rice, naan bread, or other accompaniments.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc4zpZR3Qv6r6V_46zHsQM-AXC--nPEVOURA&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "name": "Tacos",
+    "origin": "Mexico",
+    "description": "A traditional Mexican dish consisting of a corn or wheat tortilla filled with various ingredients such as beef, chicken, fish, or vegetables. It is usually served with salsa, guacamole, and other toppings.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VxGrXPpaWtVlQqHsdPkPgUUSPHusMK27mA&usqp=CAU"
+  },
+  {
+    "id": 6,
+    "name": "Dim Sum",
+    "origin": "China",
+    "description": "A style of Chinese cuisine consisting of small bite-sized portions of food served in steamer baskets or on small plates. It includes a variety of dishes such as dumplings, buns, and rolls, often served with tea.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvx9IMdEQ8G1q5LwZrSy8uVQjxcDs8N68c0g&usqp=CAU"
+  }
+]
