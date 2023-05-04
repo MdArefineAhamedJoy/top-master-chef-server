@@ -1,44 +1,38 @@
 [
   {
     "id": 1,
-    "name": "Pizza",
-    "origin": "Italy",
-    "description": "A dish made of dough, tomato sauce, and various toppings such as cheese, vegetables, and meats. It is usually baked in an oven.",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFb-QOETAw_2smnhPtCqsh8A1KTeBnpYEBTQ&usqp=CAU"
+    "name": "Kebabs",
+    "description": "Turkey is famous for its kebabs, which are grilled or roasted meat dishes. Adana kebab, shish kebab, and doner kebab are some of the most popular types.",
+    "image_url": "https://media.istockphoto.com/id/637145496/photo/bbq-beef-rosemary-skewers.jpg?b=1&s=170667a&w=0&k=20&c=-MLPfso7FM6YN0Fs0so1RjnV8idijh1WK1elt5LlclU="
   },
   {
     "id": 2,
-    "name": "Burgers",
-    "origin": "United States",
-    "description": "A sandwich consisting of a cooked patty of ground meat, usually beef, placed between two buns. It is often served with various toppings such as cheese, lettuce, tomato, and condiments.",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Nx0rqEFVsV5Xhbl8_DEXzdJAdsUBYEwXow&usqp=CAU"
+    "name": "Baklava",
+    "description": "Baklava is a sweet pastry that is made with layers of phyllo dough, honey, and nuts. It is a popular dessert in Turkey and is often served with tea or coffee.",
+    "image_url": "https://media.istockphoto.com/id/183422455/photo/perfect-baklava-with-pistachio-arranged-on-a-white-plate.jpg?b=1&s=170667a&w=0&k=20&c=GXaXdgpuNeV7k0NVUf2MZ1VGSQ3aCMaSIWuNf9nPSVo="
   },
   {
     "id": 3,
-    "name": "Sushi",
-    "origin": "Japan",
-    "description": "A dish consisting of vinegared rice combined with various ingredients such as raw fish, seafood, vegetables, and egg. It is usually served with soy sauce, wasabi, and pickled ginger.",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrxayZfCVopUz43JssMVIItSveEBV4dql4Sg&usqp=CAU"
+    "name": "Dolma",
+    "description": "Dolma is a dish made with stuffed vegetables, such as grape leaves, eggplants, and peppers. The filling is typically made with rice, herbs, and spices.",
+    "image_url": "https://media.istockphoto.com/id/1173373992/photo/kibbeh-stuffed-meatballs-food-falafel.jpg?b=1&s=170667a&w=0&k=20&c=nUQL7ooKSwIMsnhoLL3m-YfD3ZIuPFXco5GuNuKwf1Q="
   },
   {
     "id": 4,
-    "name": "Curry",
-    "origin": "India",
-    "description": "A dish made with a combination of spices, herbs, and vegetables or meat. It is usually served with rice, naan bread, or other accompaniments.",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc4zpZR3Qv6r6V_46zHsQM-AXC--nPEVOURA&usqp=CAU"
+    "name": "Pide",
+    "description": "Pide is a type of Turkish flatbread that is topped with cheese, meat, vegetables, and spices. It is often compared to pizza and is a popular street food in Turkey.",
+    "image_url": "https://media.istockphoto.com/id/1387577414/photo/ramadan-pita-and-turkish-tea.jpg?b=1&s=170667a&w=0&k=20&c=0c6J29IsbcZ6VoD-E-RsBo1ahsIBPpf4T-9vRPK1swA="
   },
   {
     "id": 5,
-    "name": "Tacos",
-    "origin": "Mexico",
+    "name": "Meze",
     "description": "A traditional Mexican dish consisting of a corn or wheat tortilla filled with various ingredients such as beef, chicken, fish, or vegetables. It is usually served with salsa, guacamole, and other toppings.",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VxGrXPpaWtVlQqHsdPkPgUUSPHusMK27mA&usqp=CAU"
+    "image_url": "https://media.istockphoto.com/id/1148039529/photo/middle-eastern-arabic-or-mediterranean-appetizers-table-concept.jpg?b=1&s=170667a&w=0&k=20&c=30VebJCFK2EhPzBWYyH3WmEMEVWP4Kz1AAqvClMEosc="
   },
   {
     "id": 6,
-    "name": "Dim Sum",
-    "origin": "China",
-    "description": "A style of Chinese cuisine consisting of small bite-sized portions of food served in steamer baskets or on small plates. It includes a variety of dishes such as dumplings, buns, and rolls, often served with tea.",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvx9IMdEQ8G1q5LwZrSy8uVQjxcDs8N68c0g&usqp=CAU"
+    "name": "Turkish Delight",
+    "description": "Turkish Delight, also known as lokum, is a type of confectionery that is made with sugar, cornstarch, and flavorings. It is often flavored with rosewater or lemon and is a popular sweet treat in Turkey.",
+    "image_url": "https://plus.unsplash.com/premium_photo-1667546202636-be84f1574eb4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Rm9vZCUyMFR1cmtpc2glMjBEZWxpZ2h0JTNBfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
   }
 ]
